@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.app-description {
+  font-size: 1.2em;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.features-list {
+  text-align: left;
+  display: inline-block;
+  font-size: 1.1em;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.features-list li {
+  margin-bottom: 10px;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 30px;
+  margin: 10px;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.login-button {
+  background-color: #007bff;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+.register-button {
+  background-color: #28a745;
+}
+
+.register-button:hover {
+  background-color: #218838;
+}
+
+.youtube {
+  background-color: #ff0000;
+}
+
+.tiktok {
+  background-color: #000000;
+}
